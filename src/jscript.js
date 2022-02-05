@@ -308,3 +308,17 @@ function processArg(num) {
 }
 processed=processArg(7);
 
+/* task 57 */
+function nextInLine(arr, item) {
+    // Only change code below this line
+    arr.push(item);
+    var item1=arr.shift();
+    return item1;
+    // Only change code above this line
+  }
+  const testArr = [1, 2, 3, 4, 5];
+  console.log("Before: " + JSON.stringify(testArr));
+  console.log(nextInLine(testArr, 6));
+  console.log("After: " + JSON.stringify(testArr));
+
+  

@@ -191,4 +191,7 @@ const myAdverb = "quickly";
 // Only change code below this line
 const wordBlanks = myAdjective+" "+myNoun+" "+myVerb+" "+myAdverb+"."; 
 
+/* task 39 */
+const myArray = ["hello",25];
+
 

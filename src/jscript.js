@@ -132,4 +132,7 @@ const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Ch
 /* task 26 */
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
+/* task 27 */
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+
 

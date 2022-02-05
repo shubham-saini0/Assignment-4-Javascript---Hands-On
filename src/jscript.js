@@ -321,4 +321,7 @@ function nextInLine(arr, item) {
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));
 
-  
+ /* task 58 */
+ function welcomeToBooleans() {
+    return true; 
+ }

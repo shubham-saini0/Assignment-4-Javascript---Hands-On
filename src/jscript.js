@@ -702,3 +702,13 @@ const myDog = {
     "friends": ["Water", "Dogs"]
     // Only change code above this line
   };
+
+  /* task 84 */
+  const testObj = {
+    "hat": "ballcap",
+    "shirt": "jersey",
+    "shoes": "cleats"
+  };
+  // Only change code below this line
+  const hatValue = testObj.hat;      // Change this line
+  const shirtValue = testObj.shirt; 

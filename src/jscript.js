@@ -173,4 +173,9 @@ const lastName = "Lovelace";
 // Only change code below this line
 const thirdLetterOfLastName = lastName[2];
 
+/* task 36 */
+const lastName = "Lovelace";
+// Only change code below this line
+const lastLetterOfLastName = lastName[lastName.length -1];
+
 

@@ -891,3 +891,8 @@ for (let i = 1; i <= 5; i++) {
 }
 
 /*task 98*/
+const myArray = [];
+for (let i = 1; i < 10; i += 2) {
+  myArray.push(i);
+}
+

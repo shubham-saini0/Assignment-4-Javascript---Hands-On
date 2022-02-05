@@ -14,3 +14,6 @@ var a;
 a = 7;
 var b;
 b=a;
+
+/* task5  */
+var a=9;

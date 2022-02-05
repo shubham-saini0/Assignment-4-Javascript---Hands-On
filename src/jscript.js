@@ -883,3 +883,11 @@ while (i >-1) {
   myArray.push(i);
   i--;
 } 
+
+/*task 97*/
+const myArray = [];
+for (let i = 1; i <= 5; i++) {
+  myArray.push(i);
+}
+
+/*task 98*/

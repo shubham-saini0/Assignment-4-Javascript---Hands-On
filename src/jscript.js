@@ -168,3 +168,9 @@ let myStr = "Jello World";
 // Only change code below this line
 myStr="Hello World"//
 
+/* task 35 */
+const lastName = "Lovelace";
+// Only change code below this line
+const thirdLetterOfLastName = lastName[2];
+
+

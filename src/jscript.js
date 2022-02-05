@@ -712,3 +712,14 @@ const myDog = {
   // Only change code below this line
   const hatValue = testObj.hat;      // Change this line
   const shirtValue = testObj.shirt; 
+
+  /* task 85 */
+  const testObj = {
+    "an entree": "hamburger",
+    "my side": "veggies",
+    "the drink": "water"
+  };
+  // Only change code below this line
+  const entreeValue = testObj["an entree"];   // Change this line
+  const drinkValue = testObj["the drink"];
+  

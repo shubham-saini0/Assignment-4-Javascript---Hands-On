@@ -271,3 +271,12 @@ function fun2() {
   console.log(output);
 }
 
+/* task 53 */
+function myLocalScope() {
+    // Only change code below this line
+  let myVar;
+    console.log('inside myLocalScope', myVar);
+  }
+  myLocalScope();
+  console.log('outside myLocalScope', myVar);
+  

@@ -354,4 +354,12 @@ function testStrict(val) {
   }
   testStrict(10);
 
+ /* task 62 */
+ function compareEquality(a, b) {
+    if (a === b) { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  compareEquality(10, "10");
   

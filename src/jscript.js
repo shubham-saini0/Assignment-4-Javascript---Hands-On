@@ -194,4 +194,7 @@ const wordBlanks = myAdjective+" "+myNoun+" "+myVerb+" "+myAdverb+".";
 /* task 39 */
 const myArray = ["hello",25];
 
+/* task 40 */
+const myArray = [["Bulls", 23], ["White Sox", 45]];
+
 

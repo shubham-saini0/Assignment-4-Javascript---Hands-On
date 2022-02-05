@@ -151,3 +151,9 @@ const someAdjective = "hello";
 let myStr = "Learning to code is ";
 myStr+=someAdjective;
 
+/* task 32 */
+let lastNameLength = 0;
+const lastName = "Lovelace";
+// Only change code below this line
+lastNameLength = lastName.length;
+

@@ -522,4 +522,5 @@ function testElseIf(val) {
   testSize(20);
   testSize(25);
 
+  /* task 75 */
   

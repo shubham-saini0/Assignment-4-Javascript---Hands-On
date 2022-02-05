@@ -247,5 +247,12 @@ function reusableFunction() {
     console.log(param1+param2);
   }
   functionWithArgs(2,3);
-    
+
+ /* task 51 */
+ function timesFive(num) {
+    return num * 5;
+  }
+  const answer = timesFive(5);
+
+  
 

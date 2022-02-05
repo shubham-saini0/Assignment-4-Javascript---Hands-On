@@ -129,4 +129,7 @@ c /= 11;
 /* task 25 */
 const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
 
+/* task 26 */
+const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+
 

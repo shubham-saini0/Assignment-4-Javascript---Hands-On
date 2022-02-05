@@ -146,3 +146,8 @@ myStr+=" This is the second sentence.";
 const myName = "dayal";
 const myStr = "shubham"+myName+"saini";
 
+/* task 31 */
+const someAdjective = "hello";
+let myStr = "Learning to code is ";
+myStr+=someAdjective;
+

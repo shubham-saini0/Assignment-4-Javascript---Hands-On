@@ -9,3 +9,8 @@ var myName;
 var a;
 a=7;
 
+/*  task4 */
+var a;
+a = 7;
+var b;
+b=a;

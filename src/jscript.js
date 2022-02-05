@@ -876,4 +876,10 @@ const recordCollection = {
   }
   updateRecords(recordCollection, 5439, 'artist', 'ABBA');
 
-  
+ /*task 96*/
+ const myArray = [];
+let i=5;
+while (i >-1) {
+  myArray.push(i);
+  i--;
+} 

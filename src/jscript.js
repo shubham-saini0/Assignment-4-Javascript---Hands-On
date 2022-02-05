@@ -224,4 +224,7 @@ const myArray = [
 const myArray = [["John", 23], ["cat", 2]];
 const removedFromMyArray = myArray.pop();
 
+/* task 46 */
+const myArray = [["John", 23], ["dog", 3]];
+const removedFromMyArray = myArray.shift();
 

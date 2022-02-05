@@ -90,3 +90,12 @@ const quotient = 4.4 / 2; // Change this line
 /* task 20 */
 const remainder = 11%3;
 
+/* task 21 */
+let a = 3;
+let b = 17;
+let c = 12;
+// Only change code below this line
+a += 12;
+b += 9;
+c += 7;
+

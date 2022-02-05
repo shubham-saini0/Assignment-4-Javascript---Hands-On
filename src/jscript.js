@@ -76,3 +76,8 @@ let myVar = 11;
 // Only change code below this line
 myVar--;
 
+/* task 17 */
+const ourDecimal = 5.7;
+// Only change code below this line
+const myDecimal = 2.5;
+

@@ -741,3 +741,14 @@ const myDog = {
     "friends": ["freeCodeCamp Campers"]
   };
   myDog.name="Happy Coder";
+
+  /* task 88 */
+  const myDog = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+  };
+  myDog.bark="woof";
+
+  

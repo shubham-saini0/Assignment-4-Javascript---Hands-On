@@ -17,3 +17,8 @@ b=a;
 
 /* task5  */
 var a=9;
+
+/* task6  */
+var myFirstName="Shubham";
+var myLastName="Saini";
+
